@@ -1,6 +1,6 @@
 # Growing Reservoirs with Developmental Graph Cellular Automata
 
-Code for ALIFE 2025 paper "Growing Reservoirs with Developmental Graph Cellular Automata."
+Code for ALIFE 2025 [paper](https://doi.org/10.1162/ISAL.a.854) "Growing Reservoirs with Developmental Graph Cellular Automata."
 
 ## Installing Dependencies
 
